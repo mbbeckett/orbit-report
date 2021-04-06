@@ -15,7 +15,9 @@ table {
   min-width: 300px;
   background: rgb(203, 255, 248);
 }
-
+tr:nth-child(even){
+    background: #c9c9c9;
+}
 .header-row {
     background: #34495E;
     color: #fff
