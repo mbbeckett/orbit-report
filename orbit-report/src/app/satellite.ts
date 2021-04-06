@@ -14,5 +14,9 @@ export class Satellite {
 
     }
 
-
+    // shouldShowWarning(): boolean{
+    //     if (this.type.includes("Space Debris")){
+    //         return true
+    //     }
+    // }
 };

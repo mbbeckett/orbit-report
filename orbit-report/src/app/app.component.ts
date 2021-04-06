@@ -43,8 +43,6 @@ export class AppComponent {
           matchingSatellites.push(this.sourceList[i]);
        }
       }
-
     this.displayList = matchingSatellites;
     }  
-
 }
